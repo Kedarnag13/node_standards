@@ -26,3 +26,16 @@ var b = 5;//••
 var a = 0;
 var b = 5;
 ```
+
+### Single Quotes
+Unless you're writing JSON, please make sure you use single quotes.
+
+**Incorrect**
+```
+var a = "something";
+```
+
+**Correct**
+```
+var a = 'something';
+```
