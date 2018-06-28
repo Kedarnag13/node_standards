@@ -39,3 +39,20 @@ var a = "something";
 ```
 var a = 'something';
 ```
+
+### Opening braces always goes in the same line
+
+**Incorrect**
+```
+if (condition)
+{
+  // statements
+}
+```
+
+**Correct**
+```
+if (condition) {
+  // statements
+}
+```
